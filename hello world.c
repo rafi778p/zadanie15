@@ -1,6 +1,6 @@
 int main()
 {
 printf("Hello World");
-printf((\n)"Rafa³ Dunaj")
+printf("Rafa³ Dunaj");
 return 0;
 }
